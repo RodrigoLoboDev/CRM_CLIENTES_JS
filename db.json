@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis Rodrigo Lobo (ACTUALIZADO)",
+      "empresa": "RodrigoDev",
+      "email": "rolobo2812@gmail.com",
+      "telefono": "281738971938",
+      "notas": "Aprendiendo JSON SERVER",
+      "id": "6"
+    },
+    {
+      "id": "5b66",
+      "nombre": "Emir Lobo",
+      "empresa": "RodrigoLoboDev",
+      "email": "correotaller278@gmail.com",
+      "telefono": "3865627955",
+      "notas": "Product Owner"
+    },
+    {
+      "id": "4e80",
+      "nombre": "Geronimo Emir",
+      "empresa": "RodrigoLoboDev",
+      "email": "rolobo2812@gmail.com",
+      "telefono": "03865627955",
+      "notas": "Product"
+    }
+  ]
+}

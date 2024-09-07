@@ -1,0 +1,6 @@
+Funciones:
+
+-Mostrar Mensaje
+-formatearCantidad
+-generarId
+-formatearFecha
